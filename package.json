@@ -1,0 +1,11 @@
+{
+  "name": "45-questions-assigment_governer_initiative",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fizra Amir",
+  "license": "ISC"
+}
